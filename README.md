@@ -17,7 +17,7 @@ This repository contains the following projects:
 
 ### 🧠 Lisp-Based Intelligent System
 
-This project is implemented in **Lisp** and focuses on fundamental concepts of **intelligent systems and symbolic processing**.
+This project is implemented in **Lisp** and focuses on fundamental concepts of **intelligent systems and symbolic processing** resolving the unification algorithm.
 
 The program demonstrates how problems can be solved using **functional programming and recursive structures**, which are key aspects in the development of intelligent systems.
 
